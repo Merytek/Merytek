@@ -6,5 +6,5 @@ Je suis un étudiant au lycée qui passe sa vie à programmer par **passion** m�
 - 🌱 J'apprend en ce moment le Lua
 - ⚡ Fun fact: J'ai commencé la programmation car je trouvais la syntaxe des langages jolie 
 
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Merytek&show_icons=true&hide_border=true&theme=tokyonight" />
-<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=Merytek&show_icons=true&theme=tokyonight&layout=compact&langs_count=10" />
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Merytek&show_icons=true&hide_border=true&theme=midnight-purple" />
+<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=Merytek&show_icons=true&theme=midnight-purple&layout=compact&langs_count=10" />
