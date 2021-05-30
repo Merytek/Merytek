@@ -31,6 +31,7 @@ l'IDE : <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=f
 
 - [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-)
 - [github-README-stats](https://github.com/anuraghazra/github-readme-stats)
+- [novatorem](https://github.com/novatorem/novatorem/)
 
 ## Activité récente:
 
