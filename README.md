@@ -37,3 +37,6 @@ l'IDE : <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=f
 <!--START_SECTION:activity-->
 
 ## Un peu de musique ?
+
+[![Spotify](https://novatorem-merytek.vercel.app/api/spotify)](https://open.spotify.com/user/k0fjtyu9occoj30y486b9)
+
