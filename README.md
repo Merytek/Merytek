@@ -21,7 +21,7 @@ J'ai plusieurs projet en cours du plus sérieux à l'incroyablement random parce
 En matière de programmation j'utilise 1 IDE et un 1 éditeur de texte (plus pratique si je veux juste visualiser le code)
 
 l'IDE : <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-l'Éditeur de texte: <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+</br>l'Éditeur de texte: <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Merytek&show_icons=true&theme=midnight-purple" />
 <img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=Merytek&show_icons=true&theme=midnight-purple&layout=compact&langs_count=10" />
