@@ -23,10 +23,6 @@ En matière de programmation j'utilise 1 IDE et un 1 éditeur de texte (plus pra
 l'IDE : <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </br>l'Éditeur de texte: <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Merytek&show_icons=true&theme=midnight-purple" />
-<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=Merytek&show_icons=true&theme=midnight-purple&layout=compact&langs_count=10" />
-
-
 ## Repo utilisé pour le style :
 
 - [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-)
@@ -34,9 +30,10 @@ l'IDE : <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=f
 - [novatorem](https://github.com/novatorem/novatorem/)
 - [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 
-## Activité récente:
+## Metrics
 
-<!--START_SECTION:activity-->
+![Metrics](https://metrics.lecoq.io/Merytek?template=classic&isocalendar=1&languages=1&introduction=1&people=1&lines=1&projects=1&activity=1&achievements=1&isocalendar.duration=half-year&languages.limit=20&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FParis)
+
 
 ## Un peu de musique ?
 
