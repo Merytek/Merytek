@@ -5,4 +5,3 @@
 ## Un peu de musique ?
 
 [![Spotify](https://novatorem-merytek.vercel.app/api/spotify)](https://open.spotify.com/user/k0fjtyu9occoj30y486b9)
-
