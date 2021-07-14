@@ -4,8 +4,8 @@
 
 ## Répo utilisé pour le README:
 
-[Metrics](https://github.com/lowlighter/metrics)
-[novatorem](https://github.com/novatorem/novatorem)
+- [Metrics](https://github.com/lowlighter/metrics)
+- [novatorem](https://github.com/novatorem/novatorem)
 
 ## Un peu de musique ?
 
