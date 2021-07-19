@@ -13,7 +13,7 @@ jobs:
       - uses: Merytek/metrics@master
         with:
           # Your GitHub token
-          token: ${{ github.METRICS_TOKEN }}
+          token: ${{ secret.METRICS_TOKEN }}
           
           # Options
           user: Merytek
